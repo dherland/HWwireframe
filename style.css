@@ -1,3 +1,81 @@
-header {
-	background-color: green;
+
+body {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777;
+	background: #777;
+	width: 960px;
+	font-size: 18px;
+	margin: 0 auto;
 }
+header {
+	background-color: #ebebeb;
+	text-decoration-color: red;
+	text-align: center;
+	padding: 10px;
+	align-content: center;
+	margin-top: 10px;
+}
+nav {	
+	background-color: #ebebeb;
+	text-decoration-color: red;
+	text-align: center;
+	padding: 10px;
+	align-content: center;
+	margin-top: 10px;
+}
+#section {	float: left;
+	background-color: #ebebeb;
+	text-decoration-color: red;
+	text-align: center;
+	align-content: center;
+	margin-top: 10px;
+	width: 470px;
+	height: 300px;
+}
+#aside { float: right;
+		background-color: #ebebeb;
+	text-decoration-color: red;
+	text-align: center;
+	align-content: center;
+	margin-top: 10px;
+	width: 470px;
+	height: 300px;
+}
+footer {
+		background-color: #ebebeb;
+	text-decoration-color: red;
+	text-align: center;
+	padding: 50px;
+	align-content: center;
+	display: block;
+	clear: both;
+	position: absolute;
+	top: 500px;
+	width: 860px;
+}
+#article { 
+	background: gray;
+	text-align: center;
+	align-content: center;
+	margin-top: 10px;
+	color: white;
+	height: 200px;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+h1 {
+	background: white;
+	color: #777;
+	padding: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	}
+	#p {
+		background: white;
+		color: #777;
+		padding: 10px;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
